@@ -1,0 +1,35 @@
+body{
+    background-color: #020540;    
+    /* background-color:#023059; */
+    color:#F2EEEB;
+    font-family: 'Ibarra Real Nova', serif;
+    padding:15px;
+}
+
+.header{
+    /* padding: 15px; */
+}
+
+h1{
+    color:#04ADBF;
+    font-size: 72px;
+}
+
+h2{
+    color:#04ADBF;
+    font-size: 40px;
+}
+
+h3{
+    color:#0388A6;
+    font-size: 30px;
+}
+
+p{
+    padding-bottom:15px;
+    font-size: 22px;
+}
+
+object{
+    padding-bottom:15px;
+}
